@@ -18,7 +18,8 @@ module.exports = {
       '/hardware/',
       '/support/',
       '/cautions/',
-      '/behindthescene/'
+      '/behindthescene/',
+      '/inspirations/'
 
     ]
   }
